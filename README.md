@@ -8,3 +8,13 @@ NAMA KELOMPOK 3
 4. YUSMAD THAROB (KONTRIBUTOR)
 5. JABIR M ROBO (KONTRIBUTOR)
 6. ALGEA FARIS SYAHINDRA (KONTRIBUTOR)
+
+# KEBUTUHAN PROJEK INI:
+1. Kebutuhan Perangkat Lunak (Software)
+Python 3.x
+ → Bahasa pemrograman utama
+  -Text Editor / IDE
+  -Visual Studio Code (disarankan)
+  -PyCharm / Notepad++
+  -Sistem Operasi
+  -Windows / Linux / macOS
